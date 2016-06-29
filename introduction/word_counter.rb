@@ -10,7 +10,7 @@ sum = 0
 
 # Loop through the words array
 words_array.each do |word|
-	sum += 1
+  sum += 1
 end
 
 # Print out the word count
